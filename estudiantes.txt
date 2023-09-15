@@ -1,0 +1,4 @@
+rocio,lopez,6544,7.6
+rodrigo,pereyra,5454,8.6
+camila,perez,3453,6.4
+tomas,gonzalez,5453,7.4
